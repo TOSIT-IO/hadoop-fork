@@ -343,6 +343,7 @@ org.apache.kerby:kerby-util:1.0.1
 org.apache.kerby:kerby-xdr:1.0.1
 org.apache.kerby:token-provider:1.0.1
 org.apache.yetus:audience-annotations:0.5.0
+org.apache.zookeeper:zookeeper:3.8.4-0.0
 org.codehaus.jettison:jettison:1.5.4
 org.eclipse.jetty:jetty-annotations:9.4.51.v20230217
 org.eclipse.jetty:jetty-http:9.4.51.v20230217
